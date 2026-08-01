@@ -5,8 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cyber Projects</b>
-  - [OSINT]()
-  - [SOCMINT]()
+  - [OSINT | SOCMINT | HUMINT]()
   - [Vulnerabilities]()
 - <b>PowerShell</b>
   - [Pending]()
