@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cyber Projects</b>
-  - [OSINT | SOCMINT | HUMINT]()
+  - [OSINT | SOCMINT | HUMINT](https://github.com/YadRoar/HUMIT-SOCMINT-OSINT-.git)
   - [Vulnerabilities]()
 - <b>PowerShell</b>
   - [Pending]()
