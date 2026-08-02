@@ -1,7 +1,5 @@
 # Yadroar-Cybersecurity
 
-<h1>Hi, I'm Yadith! <br/><a href="https://github.com/" Cybersecurity Professional</a></h1>
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cyber Projects</b>
