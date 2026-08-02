@@ -6,7 +6,8 @@
 
 - <b>Cyber Projects</b>
   - [OSINT | SOCMINT | HUMINT](https://github.com/YadRoar/HUMIT-SOCMINT-OSINT-.git)
-  - [Scanning | Enumeration]()
+  - [Scanning | Enumeration](https://github.com/YadRoar/Scanning----Enumeration.git)
+  - [Security-Onion] ()
 - <b>PowerShell</b>
   - [Pending]()
 - <b>BASH (Scripts)</b>
