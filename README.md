@@ -6,12 +6,7 @@
   - [OSINT | SOCMINT | HUMINT](https://github.com/YadRoar/HUMIT-SOCMINT-OSINT-.git)
   - [Scanning | Enumeration](https://github.com/YadRoar/Scanning----Enumeration.git)
   - [Security-Onion](https://github.com/YadRoar/Security-Onion.git)
-- <b>PowerShell</b>
-  - [Pending]()
-- <b>BASH (Scripts)</b>
-  - [Script]()
-- <b>Python</b>
-  - [Django (Web Demo)](https://github.com/YadRoar/Django-Project)
+
 
 <h2> 🤳 Connect with me:</h2>
 
