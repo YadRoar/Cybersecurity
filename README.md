@@ -6,6 +6,8 @@
   - [OSINT | SOCMINT | HUMINT](https://github.com/YadRoar/HUMIT-SOCMINT-OSINT-.git)
   - [Scanning | Enumeration](https://github.com/YadRoar/Scanning----Enumeration.git)
   - [Security-Onion](https://github.com/YadRoar/Security-Onion.git)
+  - [Wazuh](https://github.com/YadRoar/Wazuh.git)
+
 
 
 <h2> 🤳 Connect with me:</h2>
